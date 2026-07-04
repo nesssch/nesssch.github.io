@@ -1,0 +1,11 @@
+h1.test {
+    color:aqua;
+}
+
+div.wiki {
+    background-color: #f2edf8;
+    border: 1px solid #000;
+    border-left: 10px solid #7c26fc;
+    width: 80%;
+    float:none;
+}
