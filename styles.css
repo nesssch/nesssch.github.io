@@ -11,6 +11,11 @@
 
 }
 
+p {
+    padding-left:20px;
+    padding-right:20px;
+}
+
 h1.test {
     color:aqua;
 }
@@ -25,8 +30,6 @@ div.wiki {
 }
 
 div.main {
-     
-    /* display: flex; */
     align-items: center;
     justify-content: center;
 }
