@@ -35,3 +35,9 @@ div.main {
     background-color:#5da45e;
     width: 80; 
 }
+
+.sidebar {
+    color:#5a5a5a;
+    font-size: smaller;
+    margin-top:-15px;
+}
