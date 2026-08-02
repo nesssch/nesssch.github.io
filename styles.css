@@ -1,3 +1,16 @@
+* {
+    align-items: center;
+    justify-content: center;
+}
+
+.centre {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
 h1.test {
     color:aqua;
 }
@@ -9,4 +22,16 @@ div.wiki {
     width: 80%;
     float:none;
     padding:1%;
+}
+
+div.main {
+     
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    background-color:#5da45e;
+    width: 80; 
 }
