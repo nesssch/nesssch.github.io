@@ -11,6 +11,16 @@
 
 }
 
+.topbar {
+    display: flex;
+    justify-content: right;
+}
+
+.tbl {
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
 p {
     padding-left:20px;
     padding-right:20px;
