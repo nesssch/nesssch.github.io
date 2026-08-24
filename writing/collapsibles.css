@@ -9,13 +9,19 @@
 
 summary {
     margin-left: -30px;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
     margin-top: 10px;
 }
 
 /* details margin + summary margin = indent */
 
+p {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
 details {
     margin-left: 50px;
-    margin-bottom: 10px;
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
 }
