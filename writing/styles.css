@@ -1,0 +1,55 @@
+* {
+    align-items: center;
+    justify-content: center;
+}
+
+.centre {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topbar {
+    display: flex;
+    justify-content: right;
+}
+
+.tbl {
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+p {
+    padding-left:20px;
+    padding-right:20px;
+}
+
+h1.test {
+    color:aqua;
+}
+
+div.wiki {
+    background-color: #f2edf8;
+    border: 1px solid #000;
+    border-left: 10px solid #7c26fc;
+    width: 80%;
+    float:none;
+    padding:1%;
+}
+
+div.main {
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    background-color:#5da45e;
+    width: 80; 
+}
+
+.sidebar {
+    color:#5a5a5a;
+    font-size: smaller;
+    margin-top:-15px;
+}
